@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Carlos Favarão
+Nome: Carlos Eduardo Souza Favarão
 
-RA: >>> PREENCHER <<<
+RA: 23034356-2
 
 Conta GitHub: @CarlosFavarao
 
